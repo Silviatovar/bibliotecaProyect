@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+nav {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: right;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 1px solid #666;
+    border-radius: 5px;
+}
+
+h2 {
+    color: #333;
+    text-align: center;
+}
+
+.libro {
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: white;
+    width: 300px;
+    display: inline-block;
+}
+
+.libro img {
+    max-width: 100%;
+    height: auto;
+}
+
+main {
+    flex: 1;
+    padding: 20px; /* Añade espacio alrededor del contenido principal (libros) */
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-top: auto; /* Hace que el footer se quede abajo */
+}

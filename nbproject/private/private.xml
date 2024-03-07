@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/web/css/header.jsp</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/src/java/dao/prueba/AutorJpaController.java</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/web/admin/ActualizarUsuario.jsp</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/web/admin/CrearUsuario.jsp</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/src/java/controlador/empleado/ListaPrestamos.java</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/web/admin/listaGeneros.jsp</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/src/java/controladores/MenuPrincipal.java</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/web/admin/crearAutor.jsp</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/src/java/controlador/admin/ActualizarUsuario.java</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/web/admin/ActualizarGenero.jsp</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/web/empleado/listaPrestamos.jsp</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/web/admin/listaUsuarios.jsp</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/src/java/modelos/ModeloPrestamos.java</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/src/java/controlador/admin/ListaUsuarios.java</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/web/admin/CrearGenero.jsp</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/src/java/controlador/admin/CrearGenero.java</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/src/java/controlador/admin/ListaGeneros.java</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/web/admin/CrearLibro.jsp</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/web/admin/listaLibros.jsp</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/src/java/dao/prueba/UsuarioJpaController.java</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/src/java/dao/prueba/PrestamoJpaController.java</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/src/java/modelos/ModeloUsuarios.java</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/web/menuPrincipal.jsp</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/src/java/controlador/admin/CrearAutor.java</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/web/admin/ActualizarAutor.jsp</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/web/login.jsp</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/web/admin/listaAutores.jsp</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/web/registro.jsp</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/src/java/controlador/admin/ListaLibros.java</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/web/admin/ActualizarLibro.jsp</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/src/java/modelo/entidades/Prestamo.java</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/web/css/principal.css</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/src/java/controlador/admin/CrearLibro.java</file>
+            <file>file:/C:/Users/tovar/OneDrive/Escritorio/2º%20DAW/DWES-AMIEVA/biblioteca/src/java/controlador/admin/EliminarUsuario.java</file>
+        </group>
+    </open-files>
+</project-private>
